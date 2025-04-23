@@ -39,3 +39,33 @@ Questo repository è un piccolo "me stesso" digitale, una finestra sui miei inte
 * [Il tuo sito web (se ne hai uno)]([inserisci qui il link al tuo sito web])
 
 Non esitare a curiosare tra i miei repository e a connetterti. Sono sempre aperto a nuove sfide e collaborazioni! 😊
+
+
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/giuseppezaccato/giuseppezaccato/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+<div align="left">
+  <img src="https://profile-counter.glitch.me/giuseppezaccato/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=giuseppezaccato&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giuseppezaccato&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/giuseppezaccato/giuseppezaccato/output/snake.svg" alt="Snake animation" />
+
+###
