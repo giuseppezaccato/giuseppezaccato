@@ -4,10 +4,10 @@
 </div>
 
 <h1 align="center">Ciao, viaggiatore del codice! 🚀</h1>
-<h3 align="center">Sono Giuseppe, un *Architetto Digitale in divenire* con la missione di trasformare idee in esperienze web interattive e performanti.</h3>
+<h3 align="center">Sono Giuseppe, un Esploratore di Codice con la missione di trasformare idee in esperienze web interattive e performanti.</h3>
 
 <br>
-<h4 align="center">"l compito non è vedere quanto nessuno ha visto ancora, ma pensare quello che ancora nessuno ha pensato su ciò che tutti vedono" - *Arthur Schopenhauer*</h4>
+<h3 align="center">"Il compito non è vedere quanto nessuno ha visto ancora, ma pensare quello che ancora nessuno ha pensato su ciò che tutti vedono" - <strong>Arthur Schopenhauer</strong></h3>
 <br clear="right">
 
 <h2 align="center">Chi sono? Un esploratore del mondo digitale... 🦎</h2>
