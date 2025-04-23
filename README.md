@@ -6,9 +6,9 @@
 <h1 align="center">Ciao, viaggiatore! 🚀</h1>
 <h3 align="center">Sono Giuseppe, un Esploratore di Codice con la missione di trasformare idee in esperienze web interattive e performanti.</h3>
 
-<br>
+<hr>
 <h3 align="center">"Il compito non è vedere quanto nessuno ha visto ancora, ma pensare quello che ancora nessuno ha pensato su ciò che tutti vedono" - <strong>Arthur Schopenhauer</strong></h3>
-<br clear="right">
+<hr clear="right">
 
 <h2 align="center">Chi sono? Un esploratore del mondo digitale... 🦎</h2>
 <p align="center">Passo con agilità dal design accattivante di un'interfaccia utente alla robustezza e all'efficienza del back-end. Ogni sfida è un'opportunità per imparare e crescere. Attualmente, mi sto concentrando su [Progetti attuali o aree di interesse], dove metto alla prova le mie competenze e scopro nuove frontiere tecnologiche.</p>
