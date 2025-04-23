@@ -41,11 +41,6 @@ Questo repository è un piccolo "me stesso" digitale, una finestra sui miei inte
 Non esitare a curiosare tra i miei repository e a connetterti. Sono sempre aperto a nuove sfide e collaborazioni! 😊
 
 
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/giuseppezaccato/giuseppezaccato/output/snake.svg" alt="Snake animation" />
@@ -60,7 +55,7 @@ Non esitare a curiosare tra i miei repository e a connetterti. Sono sempre apert
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giuseppezaccato&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=giuseppezaccato&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giuseppezaccato&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
