@@ -80,7 +80,7 @@
 
 <h2 align="center">Connettiamoci! 🔗</h2>
 <p align="center">
-  <a href="[inserisci qui il tuo link di LinkedIn]">
+  <a href="https://www.linkedin.com/in/giuseppe-zaccato-94917a362/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="[inserisci qui il tuo link di Twitter]">
@@ -93,15 +93,13 @@
 
 <p align="center">Non esitare a curiosare tra i miei repository e a connetterti. Sono sempre aperto a nuove sfide e collaborazioni! 😊</p>
 
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/giuseppezaccato/giuseppezaccato/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=giuseppezaccato&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giuseppezaccato&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giuseppezaccato&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
