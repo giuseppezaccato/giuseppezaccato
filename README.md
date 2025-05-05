@@ -52,7 +52,7 @@
 
 <h2 align="center">Connettiamoci! 🔗</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/giuseppe-zaccato-94917a362/">
+  <a href="https://www.linkedin.com/in/giuseppezaccato/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:giuseppezaccato+github@gmail.com">
