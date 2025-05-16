@@ -10,16 +10,24 @@
 <h3 align="center">"Il compito non è vedere quanto nessuno ha visto ancora, ma pensare quello che ancora nessuno ha pensato su ciò che tutti vedono" - <strong>Arthur Schopenhauer</strong></h3>
 <hr clear="right">
 
-<h2 align="center">Chi sono? Un esploratore del mondo digitale... 🦎</h2>
-<p align="center">Passo con agilità dal design accattivante di un'interfaccia utente alla robustezza e all'efficienza del back-end. Ogni sfida è un'opportunità per imparare e crescere. Attualmente, mi sto concentrando su [Progetti attuali o aree di interesse], dove metto alla prova le mie competenze e scopro nuove frontiere tecnologiche.</p>
+  <h2 align="center">Chi sono? Un astronauta tra le galassie digitali! 🚀🌌</h2>
+<p align="center">
+  Fin da quando i joystick avevano il filo e internet era un mistero da svelare 🧙‍♂️, la tecnologia è stata la mia grande avventura! Non cerco un semplice lavoro, ma <strong>opportunità per creare esperienze digitali indimenticabili</strong>! ✨
+</p>
+<p align="center">
+  Come <strong>Frontend Alchemist</strong>, utilizzo <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript ES6+</strong> e <strong>TypeScript</strong> per dar vita a interfacce utente dinamiche, scalabili e robuste. Con TypeScript, assicuro codice chiaro e manutenibile, trasformando design accattivanti in esperienze fluide e coinvolgenti. 
+  Il mio tocco speciale? <strong>Spargere tesori interattivi</strong> 🗺️ che sorprendono gli utenti, curando ogni dettaglio per un’esperienza naturale e memorabile! 😄🎉
+</p>
+<p align="center">
+  Ma non mi limito al frontend: nel <strong>backend</strong>, lavoro con <strong>Node.js</strong> ed <strong>Express</strong> per costruire API solide e gestire la logica con precisione. Con <strong>MySQL</strong>, organizzo dati persistenti ed efficienti. Ogni progetto è un’occasione per crescere, affrontare sfide e lasciare la mia <strong>firma digitale</strong>! 🚀
+</p>
 
-
-<h2 align="center">Cosa troverai in questa galassia di codice? 🌌</h2>
+  <h2 align="center">Cosa troverai nella mia orbita di codice? 🌠</h2>
 <p align="center">Questo repository è il mio piccolo angolo di internet, una vetrina delle mie passioni tecnologiche e delle competenze che mi guidano nel mondo dello sviluppo. Consideralo una mappa stellare delle mie abilità.</p>
 
-<h2 align="center">La mia cassetta degli attrezzi (e qualche chicca! 😜)</h2>
-
-<h3 align="center">Frontend Alchemist 🧪</h3>
+  
+  <h2 align="center">La mia navicella degli attrezzi (e qualche stella rara! 😜)</h2>
+ <h3 align="center">Starfront Voyager 🌟</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -30,14 +38,14 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
-<h3 align="center">Backend Ninja 🥷</h3>
+  <h3 align="center">Backend Nebula 🪐</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-<h3 align="center">Strumenti Essenziali ⚙️</h3>
+  <h3 align="center">Astro Toolkit ⚙️🛰️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -49,9 +57,6 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
 </p>
-
-
-
 
 
 <div align="center">
