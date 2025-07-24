@@ -1,6 +1,7 @@
 <div align="right">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Mano che saluta">
-  <img src="https://profile-counter.glitch.me/giuseppezaccato/count.svg?" />
+
+
 </div>
 
 <h1 align="center">Ciao, viaggiatore! 🚀</h1>
